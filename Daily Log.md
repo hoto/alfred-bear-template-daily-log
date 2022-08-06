@@ -1,22 +1,6 @@
 # {{today}}
----
-#daily-log/{date: YYYY/MM/dd}
----
-::[[{{last}}]]:: <- -> ::[[{{next}}]]::
----
-## Short Review
+::[[{{last}}]]:: <- -> ::[[{{next}}]]::  #daily-log/{date: YYYY/MM/dd}
 
+# Todo
 
-## For Tomorrow
-
----
-## Meetings
-::[Fantastical](x-fantastical2://show/mini/{date:yyyy-MM-dd})::
-
-
-## Notes
-
-
-## Plan
-::[Things](things:///show?id=today)::
-
+# Notes
